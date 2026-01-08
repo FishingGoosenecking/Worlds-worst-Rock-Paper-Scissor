@@ -1,3 +1,4 @@
+//Rock paper scissor but worse written in C.
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
